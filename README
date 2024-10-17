@@ -46,7 +46,7 @@ jobs:
 This action is useful when you want to ensure Pull Requests are labeled appropriately without manual intervention. For instance, you might want to add a `review needed` label when a new Pull Request is opened.
 
 ```yaml
-uses: your-username/labeler-action@v1.0
+uses: HassanBahati/labeler-action@v1.0
 with:
   gh-token: ${{ secrets.GITHUB_TOKEN }}
   label: "review needed"
