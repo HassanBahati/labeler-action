@@ -1,5 +1,5 @@
 name: "Labeler Action"
-description: "A GitHub Action that automatically adds labels to pull requests, issues, and more. Streamline your workflow by ensuring that every new pull request, issue, or event is properly labeled upon creation."
+description: "A GitHub Action that automatically adds labels to pull requests, issues, and events, ensuring proper labeling upon creation."
 author: "Hassan Bahati"
 
 inputs:
