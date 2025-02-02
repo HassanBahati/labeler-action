@@ -55,7 +55,7 @@ with:
 ### Future Plans
 
 In future versions, this action will support:
-- Labeling issues.
+- [X] Labeling issues.
 - Advanced event triggers.
 - Dynamic labeling rules based on PR content, file changes, or issue type.
 
